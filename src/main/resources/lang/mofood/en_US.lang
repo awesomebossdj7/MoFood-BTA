@@ -1,0 +1,15 @@
+item.mofood.food.steak.name=Steak
+item.mofood.food.steak.desc=Cooked Meat from a Cow!
+item.mofood.food.steak.raw.name=Raw Beef
+item.mofood.food.steak.raw.desc=Meat from a Cow!
+
+item.mofood.food.mutton.name=Mutton
+item.mofood.food.mutton.desc=Cooked Meat from a Sheep!
+item.mofood.food.mutton.raw.name=Raw Mutton
+item.mofood.food.mutton.raw.desc=Meat from a Sheep!
+
+item.mofood.food.porkchop.name=Porkchop
+item.mofood.food.porkchop.desc=Cooked Meat from a Pig!
+item.mofood.food.porkchop.raw.name=Raw Porkchop
+item.mofood.food.porkchop.raw.desc=Meat from a Pig!
+

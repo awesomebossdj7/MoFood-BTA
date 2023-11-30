@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "mofood",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "MoFood",
+  "description": "This mod makes cows and sheep drop food!",
   "authors": [
-    "Turnip Labs"
+    "Awesomebossdj7"
   ],
   "contact": {
     "homepage": "",
@@ -18,11 +18,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-        "turniplabs.examplemod.ExampleMod"
+        "awesoft.mofood.MoFood"
     ]
   },
   "mixins": [
-      "examplemod.mixins.json"
+      "mofood.mixins.json"
   ],
 
   "depends": {
